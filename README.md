@@ -1,4 +1,5 @@
 Handwriting Recognition with Neural Networks
+
 This project implements a Convolutional Neural Network (CNN) for recognizing handwritten digits using the MNIST dataset. The model is trained on the MNIST dataset and can predict the digits from both test data and custom uploaded images.
 
 Table of Contents
