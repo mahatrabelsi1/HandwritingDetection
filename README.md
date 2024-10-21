@@ -34,4 +34,4 @@ File Structure:
 
 ├── HandwritingDetection.ipynb    # Jupyter Notebook with the main code
 
-├── README.md                     # Project overview (this file)
+├── README.md                    
